@@ -1,2 +1,2 @@
-# Crop-Type-classfication_Senengal_DL
+# Crop-Type-classfication_Senengal
  
