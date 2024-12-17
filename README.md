@@ -1,2 +1,2 @@
-# Crop-Type-classfication_Senegal
+# Crop-Type-classification_Senegal
  
